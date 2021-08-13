@@ -1,0 +1,23 @@
+.food-add-btn{
+  max-height: 2em;
+  font-size: 2em;
+  margin-top:0.7em;
+  margin-right: 20px;
+}
+
+.food{
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin-bottom: 1em;
+}
+
+.food h4{
+  padding: 10px 0px 10px 20px;
+}
+
+.food p{
+  padding: 0px 0px 5px 20px;
+}
+
+.food-image{
+  max-width: 9em;
+}
